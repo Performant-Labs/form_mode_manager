@@ -1,5 +1,5 @@
 {
-  "name": "drupal/form_mode_manager",
+  "name": "performant_labs/form_mode_manager",
   "description": "Provide an API to use Form modes",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/image_widget_crop",
